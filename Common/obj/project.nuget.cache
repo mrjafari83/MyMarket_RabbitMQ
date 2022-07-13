@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "MEy+MRvWy+3yOAyLvjwFY8Gly58cHamOqIT0PAjX2FkAs5m4Ps9rmhC8fzFJ2t0E8bxb3Eu8evrudzL7tAaVow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kar1\\Desktop\\MyMarket_RabbitMQ\\Common\\Common.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kar1\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\Kar1\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "74029815-f535-4a32-bb81-09ee8f7b8dfc": {
+      "ProjectGuid": "74029815-f535-4a32-bb81-09ee8f7b8dfc",
+      "DisplayName": "Domain",
+      "ColorIndex": 0
+    },
+    "55b283d2-551c-46cb-862f-328afb9e9074": {
+      "ProjectGuid": "55b283d2-551c-46cb-862f-328afb9e9074",
+      "DisplayName": "Persistance",
+      "ColorIndex": 1
+    },
+    "85f88d3e-2e22-4b50-9c77-1d9451f77af0": {
+      "ProjectGuid": "85f88d3e-2e22-4b50-9c77-1d9451f77af0",
+      "DisplayName": "RabbitMQ.EndPoint",
+      "ColorIndex": 2
+    },
+    "78a69707-c236-4e3f-b95d-8d89af5ebb80": {
+      "ProjectGuid": "78a69707-c236-4e3f-b95d-8d89af5ebb80",
+      "DisplayName": "Application",
+      "ColorIndex": 3
+    },
+    "388c741c-837a-4874-8f91-84c032c9cdbf": {
+      "ProjectGuid": "388c741c-837a-4874-8f91-84c032c9cdbf",
+      "DisplayName": "Common",
+      "ColorIndex": 4
+    },
+    "5eef6f9b-4cd0-4a0e-bd8d-07fb0fdb12ee": {
+      "ProjectGuid": "5eef6f9b-4cd0-4a0e-bd8d-07fb0fdb12ee",
+      "DisplayName": "Common",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

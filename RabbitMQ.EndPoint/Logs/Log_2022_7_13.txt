@@ -1,0 +1,2 @@
+[Error] _ 7/13/2022 9:00:52 AM _ Get Entities By search in Application _ Message is : Invalid object name 'SearchFilters'.
+[Error] _ 7/13/2022 9:00:52 AM _ Get Excel File 'Rabbit MQ' _ Message is : Sequence contains no elements
